@@ -1,4 +1,4 @@
-#Politique de confidentialité
+# Politique de confidentialité
 
 ##  Introduction
 Bienvenue à la SEMAINE AFI Gabon. Votre vie privée est importante pour nous. Cette politique de confidentialité explique comment nous traitons les informations et les données des utilisateurs.
